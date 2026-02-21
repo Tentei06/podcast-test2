@@ -1,4 +1,4 @@
-[README-feed.md](https://github.com/user-attachments/files/25459819/README-feed.md)
+[README.md](https://github.com/user-attachments/files/25459819/README-feed.md)
 # The Future in Tech
 
 <img src="https://raybo.org/tfit-feed/images/artwork.jpg" width="250">
